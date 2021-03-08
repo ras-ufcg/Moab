@@ -4,7 +4,11 @@ Este é um projeto com o objetivo de implementar um sistema que permite equilibr
 ## Inspirações
 O projeto possuem duas inspirações diretas, uma é no PROJETO MOAB, da Microsoft, no qual consiste em um kit de hardware de ensino de máquina para sistemas autônomos da Microsoft.
 
+![](/Midia/projetomicrosoft.png)
+
 A outra inspiração é o BABOT, criado pelo estudante Johan Link do Instituto Federal Suíço de Tecnologia de Lausanne. 
+
+![](/Midia/johan.png)
 
 ## Planejamento
 No primeiro momento será seguindo os passos documentados pelo Johan, na documentação do seu projeto. Por isso, será implementado uma estrutura física com o mesmo designer, caracteristicas e especificções de hardware e método de controle disponibilizados.
