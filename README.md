@@ -6,6 +6,10 @@ O projeto possuem duas inspirações diretas, uma é no PROJETO MOAB, da Microso
 
 ![](/Midia/projetomicrosoft.png)
 
+Apenas ver a imagem dele e uma descrição não deve ser o suficiente, então vamos compartilhar uma demonstração. No lado esquerdo temos a simulçao feita na plataforma Bonsai e a direita a sua montagem real.
+
+![](/Midia/Moab_SoftwareHardware_v01_JS-02.gif)
+
 A outra inspiração é o BABOT, criado pelo estudante Johan Link do Instituto Federal Suíço de Tecnologia de Lausanne. 
 
 ![](/Midia/johan.png)
@@ -13,7 +17,7 @@ A outra inspiração é o BABOT, criado pelo estudante Johan Link do Instituto F
 ## Planejamento
 No primeiro momento será seguindo os passos documentados pelo Johan, na documentação do seu projeto. Por isso, será implementado uma estrutura física com o mesmo designer, caracteristicas e especificções de hardware e método de controle disponibilizados.
 
-Em um segunda etapa é objetivado a implementação mais semelahnte com o Projeto Moab da Microsoft, mas mantendo a mesma estrutura. Isto é, realizar a modelagem, implementar no Simulink, enviar para a plataforma Bonsai para realizar o treianmento do cérebro e aplicar.
+Em um segunda etapa é objetivado a implementação mais semelhante com o Projeto Moab da Microsoft, mas mantendo a mesma estrutura. Isto é, realizar a modelagem, implementar no Simulink, enviar para a plataforma Bonsai para realizar o treianmento do cérebro e aplicar.
 
 ## Métodologia
 Visando uma melhor divisão de tarefas e possibilitando um paralelismo das atividades a equipe foi dividida em três áreas: Hardware, Visão e Controle.
