@@ -1,0 +1,2 @@
+[03-28-2022 | 11:37] - Criar um tutorial explicando como realizar o punch clock por meio de um README.md no repositório do projeto. 
+[03-28-2022 | 12:55] - Finalizado o README.md do tutorial de como realizar o punch clock.
