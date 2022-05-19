@@ -1,3 +1,4 @@
 [04/04/2022||20:40]-Iniciar implementação do circuito de hardware do projeto
 [04/04/2022||21:48]-Comecei a implementar o circuito
 [18/05/2022||21:26]-Continuar a fazer o esquematico do circuito
+[18/05/2022||22:35]-Voltei a rever os compostos e comecei a implemeta-los no esquematico
